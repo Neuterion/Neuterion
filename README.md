@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Neuterion
+- 👀 I’m interested in anything programming
+- 🌱 I’m currently learning web frameworks
+- 💞️ I’m looking to collaborate on AI (soon)
+- 📫 How to reach me -> contact me on Discord @ Neuterion#6523
